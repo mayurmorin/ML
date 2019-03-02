@@ -1,5 +1,4 @@
-# ML-1-ML-2-Assignment_11.11439
-
+# ML BASICS
 Jupyter Notebook
 
 Assignment_11.11439.ipynb is a Jupyter NoteBook Execution File where all the Assigned Tasks have been executed and tested.
